@@ -1,0 +1,9 @@
+# Installed by the SessionStart hook
+.agents/
+skills-lock.json
+.claude/skills/*
+!.claude/skills/david-huck-video-editing/
+# Working media
+*.mp4
+*.mov
+*.wav
